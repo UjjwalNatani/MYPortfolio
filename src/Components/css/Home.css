@@ -3,14 +3,14 @@
     background-size: cover;
     background-position: center;
     border-radius: 200px;
-    height: 100vh;
+/*     height: 100vh;
     display:flex ;
-    flex-direction: row;
+    flex-direction: row; */
 /*     justify-content: center; */
 /*     align-items: center; */
-    animation: rotate;
+/*     animation: rotate;
     animation-duration: 5s;
-    animation-iteration-count: infinite;
+    animation-iteration-count: infinite; */
   };
   
   .loader {
