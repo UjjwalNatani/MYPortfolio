@@ -1,17 +1,17 @@
-.background-image1{
-    background-image: url(../images/image3.jpg);
+/* .background-image1{ */
+/*     background-image: url(../images/image3.jpg);
     background-size: cover;
     background-position: center;
-    border-radius: 200px;
-    height: 100vh;
+    border-radius: 200px; */
+/*     height: 100vh;
     display:flex ;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    animation: rotate;
+    flex-direction: row; */
+/*     justify-content: center; */
+/*     align-items: center; */
+/*     animation: rotate;
     animation-duration: 5s;
-    animation-iteration-count: infinite;
-  };
+    animation-iteration-count: infinite; */
+  /* }; */
   
   .loader {
     justify-content: center;
@@ -35,7 +35,7 @@
     animation-delay: 1s;
   }
   
-  @keyframes dotAnimation {
+/*   @keyframes dotAnimation {
     0% {
       transform: scale(0);
       opacity: 0.2;
@@ -48,5 +48,5 @@
       transform: scale(0);
       opacity: 0.2;
     }
-  }
+  } */
   
