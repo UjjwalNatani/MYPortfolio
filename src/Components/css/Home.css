@@ -1,4 +1,4 @@
-.background-image1{
+/* .background-image1{ */
 /*     background-image: url(../images/image3.jpg);
     background-size: cover;
     background-position: center;
@@ -11,7 +11,7 @@
 /*     animation: rotate;
     animation-duration: 5s;
     animation-iteration-count: infinite; */
-  };
+  /* }; */
   
   .loader {
     justify-content: center;
